@@ -1,6 +1,5 @@
 ### Hi there I'm Meriem 👋
 
-Here are some ideas to get you started:
 
 - 🔭 currently  I'm student in DCI 
 - 🌱 I’m currently learning ...web development
