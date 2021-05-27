@@ -1,6 +1,6 @@
 ### Hi there I'm Meriem 👋
 
-![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.mp4)
+![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 
 - 🔭 currently  I'm student in DCI 
