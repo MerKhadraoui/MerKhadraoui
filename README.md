@@ -1,8 +1,8 @@
 ### Hi there I'm Meriem 👋
-- 🔭 currently  I'm student in DCI 
-- 🌱 I’m currently learning ...web development
+- 🔭 currently  working as Web Developer at KTS Hamburg 
+- 🌱 I’m currently learning .Anguler, Search Engine Optimization SEO
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...miyakgad@gmail.com
 
 
--->                                                     ![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+-->                                                     ![Alt Text](https://iconscout.com/lottie/web-developer-8870383)
