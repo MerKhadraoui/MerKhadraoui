@@ -5,4 +5,4 @@
 - 📫 How to reach me: ...miyakgad@gmail.com
 
 
--->                                                     ![Alt Text](https://iconscout.com/lottie/web-developer-8870383)
+-->                                                     ![Alt Text]([https://iconscout.com/lottie/web-developer-8870383](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)
